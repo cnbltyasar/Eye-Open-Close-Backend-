@@ -21,3 +21,4 @@ spectrum==0.8.1
 sklearn==0.0
 pickle4==0.0.1
 mne==1.2.3
+pyriemann==0.3
